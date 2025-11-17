@@ -1,9 +1,5 @@
 {
   "routes": [
-    { "src": "/", "dest": "/home.html" },
-    { "src": "/forum", "dest": "/forum.html" },
-    { "src": "/status", "dest": "/status.html" },
-    { "src": "/reviews", "dest": "/reviews.html" },
-    { "src": "/media-resell", "dest": "/media-resell.html" }
+    { "src": "/", "dest": "/home.html" }
   ]
 }
